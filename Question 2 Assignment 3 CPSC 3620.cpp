@@ -1,5 +1,4 @@
 // Hasan Raza
-// Question 2 Assignment 3 CPSC 3620
 // Algorithm to Restore a Tree of N Vertices When only PostOrder and InOrder traversal is known.\
 
 #include <iostream>
